@@ -1,0 +1,9 @@
+CLAP  	   A : 65	https://res.cloudinary.com/cremz/video/upload/v1525947057/clap_tyznnw.wav
+HITHAT 	   S : 83	https://res.cloudinary.com/cremz/video/upload/v1525947052/hihat_g5uhu0.wav
+KICK  	   D : 68	https://res.cloudinary.com/cremz/video/upload/v1525947044/kick_cbaucw.wav
+OPENHAT    F : 70	https://res.cloudinary.com/cremz/video/upload/v1525947039/openhat_gcic0u.wav
+BOOM  	   G : 71	https://res.cloudinary.com/cremz/video/upload/v1525947067/boom_nasw9q.wav"
+RIDE  	   H : 72	https://res.cloudinary.com/cremz/video/upload/v1525947030/ride_oppxqm.wav
+SNARE  	   J : 74	https://res.cloudinary.com/cremz/video/upload/v1525947022/snare_nnzpou.wav
+TOM  	   K : 75	https://res.cloudinary.com/cremz/video/upload/v1525946930/tom_dlwxpa.wav
+TINK  	   L : 76	https://res.cloudinary.com/cremz/video/upload/v1525946947/tink_pfhcur.wav

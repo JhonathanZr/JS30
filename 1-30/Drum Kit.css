@@ -1,0 +1,42 @@
+body{
+
+    margin: 8px;
+    background: linear-gradient(rgb(88, 88, 88), rgb(255, 255, 255));
+}
+.container{
+    padding: 0px;
+    display: flex;
+    justify-content: space-around;
+    height: 100vh;
+}
+
+.key{
+    background-color: rgba(0, 0, 0, 0.4);
+    border-radius: 5px;
+    border: 2px solid black;
+    padding: 25px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    text-align: center;
+    margin: auto;
+    min-width: 72px;
+    transition: all 0.07s;
+}
+
+kbd{
+    color: white;
+    font-size: 30px;
+}
+
+span{
+    color: yellow;
+    font-size: 15px;
+    font-weight: 300;
+}
+
+.playing{
+    transform: scale(1.2);
+    border-color: yellow;
+    box-shadow: 0 0 10px yellow;
+}

@@ -21,7 +21,7 @@ body{
     text-align: center;
     margin: auto;
     min-width: 72px;
-    transition: all 0.07s;
+    transition: all 0.05s;
 }
 
 kbd{
